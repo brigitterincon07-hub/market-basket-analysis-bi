@@ -1,4 +1,5 @@
 # Market Basket Analysis for Retail Assortment Optimization
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/brigitterincon07-hub/market-basket-analysis-bi/blob/main/ReglasasociacionTADC.ipynb)
 
 ## 📌 Business Overview
 This project develops a **Recommendation Engine** for grocery retail using transactional data (9,835 transactions and 169 unique products). By applying the **Apriori Algorithm** and **Association Rules**, the goal is to discover hidden patterns in consumer purchasing behavior to optimize product placement, cross-selling strategies, and inventory assortment.
